@@ -1,7 +1,7 @@
 import sys
 import os
 import logging
-from timsconvert.timestamp import *
+from timsconvert.utils.timestamp import *
 
 
 logger = logging.getLogger(__name__)

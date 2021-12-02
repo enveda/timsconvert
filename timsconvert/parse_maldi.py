@@ -1,4 +1,4 @@
-from timsconvert.constants import *
+from timsconvert.utils.constants import *
 import numpy as np
 import pandas as pd
 import logging

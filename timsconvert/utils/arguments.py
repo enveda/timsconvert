@@ -2,7 +2,7 @@ import argparse
 import os
 import sys
 import logging
-from timsconvert.timestamp import *
+from timsconvert.utils.timestamp import *
 
 
 # Parse arguments for CLI usage

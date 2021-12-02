@@ -1,5 +1,5 @@
 import ctypes
-from timsconvert.constants import *
+from timsconvert.utils.constants import *
 
 
 # modified from alphatims

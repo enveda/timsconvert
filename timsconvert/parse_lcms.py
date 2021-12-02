@@ -1,4 +1,4 @@
-from timsconvert.timestamp import *
+from timsconvert.utils.timestamp import *
 import alphatims.bruker
 import alphatims.utils
 import sqlite3

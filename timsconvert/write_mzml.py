@@ -1,6 +1,6 @@
 from timsconvert.parse_lcms import *
 from timsconvert.parse_maldi import *
-from timsconvert.timestamp import *
+from timsconvert.utils.timestamp import *
 from psims.mzml import MzMLWriter
 import os
 import logging
